@@ -1,0 +1,1 @@
+rm /tmp/opcv.tmp; python3 ./main8.py

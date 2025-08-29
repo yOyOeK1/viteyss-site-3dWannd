@@ -1,0 +1,16 @@
+{
+    "oName": "c_3dwanndPage",
+    "o": null,
+    "dir": "viteyss-site-3dWannd",
+    "asModule": true,
+    "asVite": true,
+    "asPlugin": true,
+    "jssrc":["c_3dwannd.js"],
+    "enable": true,
+    "author": "Bartłomiej Ceglik <yoyoek@wp.pl>",
+    "ver": "0.0.1",
+    "desc": "3dWannd is a 3d mouse scanner using computer vision openvc. Imitates 3d input keyboard.",
+    "otdm":{
+        "playground": false
+    }
+}
